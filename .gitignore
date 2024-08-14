@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,react
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,react
 
+# google cloud API
+spikegattendancechecker-eefae72f8328.json
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
